@@ -1,0 +1,25 @@
+{
+    "id": "/",
+    "name": "SIMANIS — Sistem Informasi Akademik dan Informasi Siswa",
+    "short_name": "SIMANIS",
+    "description": "Portal akademik sekolah untuk yayasan, sekolah, siswa, dan orang tua.",
+    "lang": "id",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "orientation": "any",
+    "theme_color": "#42313A",
+    "background_color": "#F1DCC9",
+    "categories": [
+        "education",
+        "productivity"
+    ],
+    "icons": [
+        {
+            "src": "/icons/simanis.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        }
+    ]
+}
